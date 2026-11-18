@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringProject
+logging:
+  level:
+    root: INFO
